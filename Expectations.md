@@ -9,6 +9,9 @@ However, we still expect that:
 
 - Mentors and mentees contact one another and set terms **prior to the first co-working/intro session**.
 - Mentors and mentees are both fully aware of and fully agree to the conditions set between them.
-- All involved parties involved abide by the [Code of Conduct][conduct], both during UofT Coders events and in their own within-group communications. 
+- All involved parties involved abide by the [Code of Conduct][conduct], both during UofT Coders events and in their own within-group communications.
+- Mentors and mentees attend at least one co-working session per term.
+- Mentees are encouraged to submit feedback form at the end of the term.
+- Mentees are encouraged to volunteer and present their progress at the closing session.
 
 [conduct]: https://github.com/UofTCoders/peer-mentorship/blob/master/CONDUCT.md
